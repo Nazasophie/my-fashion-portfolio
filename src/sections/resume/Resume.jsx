@@ -14,51 +14,46 @@ const Resume = ({ title, subtitle, note }) => {
                 <div className="resume-item">
                     
                     <div className="item-content">
-                        <h3 className="item-title">African Leadership Software Engineering Accelerator (Remote)</h3>
+                        <h3 className="item-title">Lagos State Employment Trust Fund (LSETF)</h3>
                         <p className="item-date">September 2022 - October 2023 </p>
                         <ol className="item-text">
-                            <li>Completed a 12-month program focusing on software engineering  fundamentals </li>
-                            <li>Built a replica of the Airbnb website using Python's Flask Web Framework and deployed it to a
-                                server</li>. 
-                            <li>Collaborated as a front-end developer in designing and developing the "Space Tech" blog
-                             website during the final year, contributing significantly to the user interface and user
-                               experience.</li>
+                        <li>Completed a 12-month intensive training program focused on essential fashion design and production skills.</li>
+<li>Designed and created a collection of ready-to-wear pieces, incorporating modern design trends and advanced sewing techniques.</li>
+<li>Collaborated on a team project to develop and present a fashion portfolio, showcasing pattern drafting, fabric selection, and garment construction skills.</li>
+<li>Contributed to the design and execution of a group fashion showcase, focusing on styling and presentation to enhance audience engagement.</li>
                         </ol>
                         
                     </div>
                 </div>
                 <div className="resume-item">
                     <div className="item-header">
-                        <h3 className="item-title">React Developer (Virtual Intern)</h3>
-                        <p className="item-date">01/December 2023 - 31/December 2023 </p>
+                        <h3 className="item-title">One Stop Celebration (OSC Fashion School)</h3>
+                        <p className="item-date">01/December 2023 - 31/December 2024 </p>
                     </div>
                     <div className="item-content">
-                        <h3 className="item-title">Sync Internship</h3>
+                        <h3 className="item-title">Fashion Instructor</h3>
                         <ul className="item-text">
-                            <li>Developed multiple applications addressing real-life challenges within a month-long
-                                internsip.</li>
-                        <li>Leveraged API integration and React.js to create a weather application, chat
-                             application, code editor, and resume generator</li>
-                        <li>Demonstrated proficiency in web development and problem-solving skills, delivering
-                             innovative and functional solutions within tight deadlines.</li>
+                        <li>Participated in outreach programs to empower individuals in insurgency-affected states, such as Maiduguri, by providing hands-on training in fashion design and production.</li>
+<li>Delivered comprehensive workshops on pattern making, fabric cutting, garment construction, and other key areas of the fashion industry.</li>
+<li>Mentored trainees in developing practical fashion skills, enabling them to create marketable designs and establish self-sustaining businesses.</li>
+<li>Collaborated with local communities to identify needs and tailor training sessions, fostering creativity and entrepreneurship in the fashion sector.</li>
                         </ul>
                         
                     </div>
                 </div>
                 <div className="resume-item">
                     <div className="item-header">
-                        <h3 className="item-title">Frontend Developer (Intern)</h3>
-                        <p className="item-date">Agust 2023 - November 2023</p>
+                        <h3 className="item-title">Yaba College of Technology</h3>
+                        <p className="item-date">Presently</p>
                     </div>
                     <div className="item-content">
-                        <h3 className="item-title">Enovolem Virtual</h3>
+                        <h3 className="item-title">Industrial Fashion/Tech</h3>
                         <ul className="item-text">
-                           <li>Collaborated with Enovolem to develop an e-commerce gift store website</li>
-                           <li>Worked as a frontend developer, focusing on creating the user interface</li>
-                           <li>Implemented design elements and features to enhance the website's appeal and
-                            functionality.</li>
-                            <li>Ensured user-friendly navigation and seamless browsing experience for customers.</li>
-                            <li>Utilized HTML, CSS, and React.js to build responsive and visually appealing web pages.</li>
+                        <li>Collaborated on designing and creating a fashion portfolio during my studies at Yaba College of Technology, highlighting technical skills in garment construction and fashion illustration.</li>
+<li>Focused on developing creative and innovative designs, enhancing visual appeal and functionality in clothing collections.</li>
+<li>Implemented advanced pattern-making techniques to ensure precision and quality in garment production.</li>
+<li>Worked on group projects to create ready-to-wear collections, emphasizing user-friendly designs and trend-focused aesthetics.</li>
+<li>Utilized fashion-specific software and tools to develop responsive and visually appealing designs for both physical and digital presentations.</li>
                         </ul>
                         
                     </div>
