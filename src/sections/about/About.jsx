@@ -6,7 +6,9 @@ import '../../fontawesome/css/all.min.css'
 import { FcBusinessman, FcCalendar, FcBriefcase, FcWebcam, FcDownload, FcManager } from 'react-icons/fc'
 import { MdMail } from 'react-icons/md'
 import { FaHandshake, FaScrewdriver } from 'react-icons/fa'
-import cv from '../../cv/Resume-Nathaniel-Eje.pdf'
+import cv from '../../cv/ChinazaSunday.pdf'
+
+
 
 
 const About = ({ title, subtitle, note, profile, skills }) => {
