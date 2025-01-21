@@ -5,13 +5,13 @@ import { FaTwitter, FaFacebook, FaLinkedin, FaGithub } from 'react-icons/fa'
 export const Links = () => {
     return (
         <div className="social-links">
-            <a href="https://www.github.com/giftednathan" target="_blank" rel="noreferrer">
+           {/* <a href="https://www.github.com/Nazasophie" target="_blank" rel="noreferrer">
                 <FaGithub className="fab fa-whatsapp" />
-            </a>
-            <a href="https://www.linkedin.com/in/nathaniel-akenyi-eje" target="_blank" rel="noreferrer">
+            </a> */}
+            <a href="https://www.linkedin.com/in/chinaza-sunday" target="_blank" rel="noreferrer">
                 <FaLinkedin className="fab fa-linkedin" />
             </a>
-            <a href="https://www.twitter.com/eje_nathaniel" target="_blank" rel="noreferrer">
+            <a href="https://www.x.com/Nazasophie1"  target="_blank" rel="noreferrer">
                 <FaTwitter className="fab fa-twitter" />
             </a>
             <a href="https://www.facebook.com/eje.nathaniel" target="_blank" rel="noreferrer">
