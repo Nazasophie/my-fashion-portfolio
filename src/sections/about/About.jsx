@@ -107,7 +107,7 @@ About.defaultProps = {
     subtitle: 'Let me introduce myself',
     note: 'I am a fashion designer passionate about creativity, style, and innovation. With extensive experience in designing elegant, trendsetting collections, I am skilled in transforming ideas into stunning, wearable art',
     profile: 'An accomplished fashion design graduate with a strong background in textile design, garment construction, fashion illustration, and trend analysis. My academic journey is marked by high honors and recognition for excellence. I possess excellent communication and time management skills, enabling me to manage multiple projects efficiently and effectively.',
-    skills: 'Fashion Designer, Textile Designer, Pattern Making, CAD Designer, Fashion Illustrator,Digital Fashion Design, Sewing and Garment Construction, Trend Forecasting, draping, Fashion Styling and Photo Shoots and Runway Show Planning and Execution are all skills I have.',
+    skills: 'Fashion Designer, Textile Designer, Pattern Making, CAD Designer, Fashion Illustrator,Digital Fashion Design, Mood Board Designer, Sewing and Garment Construction, Trend Forecasting, draping, Fashion Styling and Photo Shoots and Runway Show Planning and Execution are all skills I have.',
 
 }
 
