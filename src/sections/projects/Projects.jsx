@@ -23,6 +23,7 @@ import easyRecipeImage from '../../assets/images/easyrecipe.png';
 import ejeImage from '../../assets/images/eje.png';
 import kryptolandImage from '../../assets/images/kryptoland.png';
 import translatorImage from '../../assets/images/translator.png';
+import moodboardImage from '../../assets/images/moodboard.jpg';
 
 const Projects = ({ title, subtitle, note }) => {
     return (
@@ -98,7 +99,11 @@ const Projects = ({ title, subtitle, note }) => {
                     </a>
                 </div>
                
-              
+                <div className="project">
+                    <img src={moodboardImage} className="project-image" alt="student tax help" />
+                   
+                </div>
+               
 
             </div>
 
