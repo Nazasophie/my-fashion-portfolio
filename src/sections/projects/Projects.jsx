@@ -30,7 +30,7 @@ const Projects = ({ title, subtitle, note }) => {
         <div id="portfolio" className="projects-section">
 
             {/* WordPress projects  */}
-            <SectionHeader title={title} subtitle={subtitle} paddingValue={'10px'} note={`Okay, let's have a look at some of the websites I've recently built with WordPress.`} />
+            <SectionHeader title={title} subtitle={subtitle} paddingValue={'10px'} note={`Okay, let's have a look at some of my designs and illustrations.`} />
             <div className="project-container">
                 <div className="project">
                     <img src={helpinghandsImage} className="project-image" alt="helpinghands consultancy banner" />
