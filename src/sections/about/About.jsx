@@ -64,7 +64,7 @@ const About = ({ title, subtitle, note, profile, skills }) => {
                         </div>
                         <div className="profile-item web">
                             <h4><FcWebcam /> website</h4>
-                            <p><a href='https://chinaza.netlify.app/' rel="noreferrer">www.ejenathaniel.netlify.app</a></p>
+                            <p><a href='http://my-fashion-portfolio.vercel.app' rel="noreferrer">http://my-fashion-portfolio.vercel.app</a></p>
 
                         </div>
 
